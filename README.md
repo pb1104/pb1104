@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pb1104
 - 👀 I’m interested in WebDev
-- 🌱 I’m currently learning JavaScipt,SQL
+- 🌱 I’m currently learning JavaScipt,React js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
